@@ -2,12 +2,13 @@ name: Technobility 2.0
 favicon: null
 layout_spectrum: 0.017850949428975582
 typography_spectrum: 0.020806337473914027
+title: Peter de Jager
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: 28bf8d99-c3b4-42ff-8ce0-c62e9ccf6718
   facebook: null
   twitter: null
 opengraph:
